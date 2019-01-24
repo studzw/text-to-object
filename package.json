@@ -1,0 +1,22 @@
+{
+  "name": "text-to-object",
+  "version": "0.1.0",
+  "description": "the fixed format text to object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studzw/text-to-object.git"
+  },
+  "author": "studzw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studzw/text-to-object/issues"
+  },
+  "homepage": "https://github.com/studzw/text-to-object#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
